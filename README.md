@@ -6,7 +6,7 @@
 
 ```
 
-ОС: Dualboot(Windows 10, Ubuntu 22.04)
+ОС: Dualboot(Windows 10 Pro 22H2, Ubuntu 22.04)
 ОЗУ: 16 гб
 SSD: 500 гб
 HDD: 500 гб
