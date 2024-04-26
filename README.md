@@ -5,10 +5,10 @@
 ```
 
 ```diff
-+ ОС: Dualboot(Windows 10 Pro 22H2, Ubuntu 22.04)
++ ОС: Windows 11
 + ОЗУ: 16 гб
-+ SSD: 500 гб
-+ HDD: 500 гб
++ SSD: 465 гб
++ HDD: 465 гб
 + Видеокарта: Nvidia geforce GTX 1060 6 gb
 + Процессор: Intel Core i5-10400F
 ```
