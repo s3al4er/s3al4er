@@ -10,7 +10,7 @@
 
 
 ```diff
-+ ОС: Windows 11
++ ОС: Windows 11 + Ubuntu 24.04
 + ОЗУ: 16 гб
 + SSD: 465 гб
 + HDD: 465 гб
