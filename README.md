@@ -4,6 +4,8 @@
 + В данный момент делаю операционную систему KitsaOS.
 ```
 
+[![kitsaos](https://s3al4er.github.io)]
+
 ```diff
 + ПК:
 ```
