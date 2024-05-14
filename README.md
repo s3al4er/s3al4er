@@ -4,7 +4,6 @@
 + В данный момент делаю операционную систему KitsaOS.
 ```
 
-[![kitsaos](https://s3al4er.github.io)]
 
 ```diff
 + ПК:
@@ -19,6 +18,9 @@
 + Видеокарта: Nvidia geforce GTX 1060 6 gb
 + Процессор: Intel Core i5-10400F
 ```
+
+KitsaOS:
+https://s3al4er.github.io/
 
 ![standard (2)](https://github.com/s3al4er/s3al4er/assets/136070278/c05a20b2-c9d8-4c52-a3a4-a59348ef4ad5)
 
