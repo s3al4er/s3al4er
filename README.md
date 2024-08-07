@@ -14,7 +14,7 @@
 + ОЗУ: 16 гб
 + SSD: 465 гб
 + HDD: 465 гб
-+ Видеокарта: Nvidia GeForce GTX 1060 6 gb
++ Видеокарта: Nvidia GeForce GTX 1060 6 Gb
 + Процессор: Intel Core i5-10400F
 ```
 
