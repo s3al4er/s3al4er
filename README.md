@@ -1,4 +1,6 @@
 
+![standard (2)](https://github.com/s3al4er/s3al4er/assets/136070278/c05a20b2-c9d8-4c52-a3a4-a59348ef4ad5)
+
 ```diff
 + Сейсас занимаюсь разработкой операционной системы KitsaOS, а также голосового ассистента Voxie.
 ```
@@ -40,7 +42,6 @@
 + Процессор: Intel Core i5-10400F
 ```
 
-![standard (2)](https://github.com/s3al4er/s3al4er/assets/136070278/c05a20b2-c9d8-4c52-a3a4-a59348ef4ad5)
 
 ![S3al4er GitHub stats](https://github-readme-stats.vercel.app/api?username=s3al4er&show_icons=true&theme=transparent)
 
