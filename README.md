@@ -46,6 +46,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6SPLOI)
 
+YouTube канал: https://youtube.com/@lcl692
+
 <!--
 **s3al4er/s3al4er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
