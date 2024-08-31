@@ -3,6 +3,28 @@
 + Сейсас занимаюсь разработкой операционной системы KitsaOS, а также голосового ассистента Voxie.
 ```
 
+```diff
++ Языки программированя, которые я знаю:
++ Python
++ C#
+```
+
+```diff
++ Языки программирования которые я учу:
++ C
++ C++
++ Javascript
+```
+
+```diff
++ Игры, над которыми я работаю:
++ Cucumber Simulator 2024 3D
++ The Crystal
++ The Retro Platform
++ Hack it!
++ OxygenWar
++ Shindows 95 Simulator
+```
 
 ```diff
 + ПК:
