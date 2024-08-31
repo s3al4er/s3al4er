@@ -1,4 +1,3 @@
-
 ![standard (2)](https://github.com/s3al4er/s3al4er/assets/136070278/c05a20b2-c9d8-4c52-a3a4-a59348ef4ad5)
 
 ```diff
