@@ -20,6 +20,8 @@
 
 ![standard (2)](https://github.com/s3al4er/s3al4er/assets/136070278/c05a20b2-c9d8-4c52-a3a4-a59348ef4ad5)
 
+![S3al4er GitHub stats](https://github-readme-stats.vercel.app/api?username=s3al4er&show_icons=true&theme=transparent)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6SPLOI)
 
 <!--
