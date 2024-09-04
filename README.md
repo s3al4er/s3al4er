@@ -44,6 +44,8 @@
 
 ![S3al4er GitHub stats](https://github-readme-stats.vercel.app/api?username=s3al4er&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3al4er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6SPLOI)
 
 YouTube канал: https://youtube.com/@lcl692
