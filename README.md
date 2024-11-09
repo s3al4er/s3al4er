@@ -47,7 +47,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3al4er&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V6SPLOI)
+[![trophy](https://github-profile-trophy.vercel.app/?username=s3al4er&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 YouTube канал: https://youtube.com/@lcl692
 
