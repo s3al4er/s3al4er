@@ -41,7 +41,7 @@
 + Процессор: Intel Core i5-10400F
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s3al4er)](https://git.io/streak-stats)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![S3al4er GitHub stats](https://github-readme-stats.vercel.app/api?username=s3al4er&show_icons=true&theme=transparent)
 
